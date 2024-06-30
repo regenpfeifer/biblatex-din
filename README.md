@@ -1,8 +1,6 @@
-BibLaTeX-DIN1505
-================
+## BibLaTeX-DIN1505
 
-Bibliografiestil für BibLaTeX nach DIN 1505
-&copy; [Michael Domhardt](https://github.com/domhardt/BibLaTeX-DIN1505)
+#### Bibliografiestil für BibLaTeX nach DIN 1505 &copy; [Michael Domhardt](https://github.com/domhardt/BibLaTeX-DIN1505)
 
 Überarbeitet von [Hermann J. Eckl](https://regenpfeifer.net/)
 
@@ -20,3 +18,7 @@ Funktionierende Eintragstypen:
 - standard (shorthand und sorttitle müssen mit dem selben Inhalt wie number ausgefüllt werden)
 - thesis
 - online
+
+### Autor & Kontakt
+
+[Hermann Josef Eckl](https://regenpfeifer.net/kontakt/)
